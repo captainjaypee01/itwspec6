@@ -97,10 +97,7 @@ class Draw extends CI_Controller {
 
             $val .= ($i-5)%6==0?'':'<br>';
             $sam .= ($i-5)%6==0?'':'<br>';
-            /*if(($i-5)%6!=0){
-                $val .='<br>';
-            }*/
-            #$sam .='<br>';
+            
         }
 
         $data['val'] = $val;
