@@ -1,11 +1,19 @@
 #SEQUENCE 1 - 1 2 4 8 11 12 14 18 21 22 24 28 31 32 34 38 41 42 44 48 51
+
+
 #SEQUENCE 2 - 1 2 4 8 9 11 15 16 18 22 23 25 29 30 32 36 37 39 43 44 46 50
+
+
 #MATCHING - Size: 10 , Partner: 5
+
+
             0 - 5
             1 - 6
             2 - 7
             3 - 8
             4 - 9
+            
+            
      Size: 10, Partner: 5, Soulmate: 0
 
 ## Welcome to GitHub Pages
